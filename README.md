@@ -1,0 +1,1 @@
+Twilight Labyrinth is a single player turn based adventure game focused on the audio immersion of the player.  The game is tailored towards blind or visually impaired gamers, and can be played based on sound alone.  The game was developed in 24 hours at Technight 2019 Hackathon in Brooklyn, NY.
